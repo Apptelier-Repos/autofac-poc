@@ -1,0 +1,10 @@
+﻿.vs
+DemoApp.ConsoleApp/bin
+DemoApp.ConsoleApp/obj
+DemoApp.Core/obj
+DemoApp.Core/bin
+DemoApp.Infrastructure/bin
+DemoApp.Infrastructure/obj
+DemoApp.Modules/bin
+DemoApp.Modules/obj
+*.user

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.9.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DemoApp.Core\DemoApp.Core.csproj" />
+    <ProjectReference Include="..\DemoApp.Infrastructure\DemoApp.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
